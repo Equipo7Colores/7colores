@@ -13,6 +13,7 @@ Sitio estático, sin frameworks ni CDNs, optimizado para carga instantánea y SE
 | `imagenes/` | Imágenes originales y fuentes sin uso (backup y archivo de material gráfico). |
 | `robots.txt` | Directivas de rastreo de motores de búsqueda. |
 | `sitemap.xml` | Mapa de sitio indexable canónico. |
+| `manifest.json` | Web App Manifest para instalación como PWA y Splash Screen en móviles. |
 | `vercel.json` | Cabeceras de seguridad y caché inmutable de assets. |
 
 ### Assets usados por la página

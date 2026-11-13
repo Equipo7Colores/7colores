@@ -1,0 +1,25 @@
+{
+  "name": "Siete Colores - Equipo Terapéutico",
+  "short_name": "Siete Colores",
+  "description": "Espacio interdisciplinario de acompañamiento terapéutico integral para infancias, jóvenes y adultos en Burzaco.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#4F46E5",
+  "icons": [
+    {
+      "src": "./assets/apple-touch-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
