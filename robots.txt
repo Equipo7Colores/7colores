@@ -1,0 +1,8 @@
+# Robots.txt para Siete Colores - Equipo Terapéutico
+# Alojamiento en Vercel: https://7colores.vercel.app/
+# (Cuando se conecte el dominio definitivo, actualizar la URL del Sitemap)
+
+User-agent: *
+Allow: /
+
+Sitemap: https://7colores.vercel.app/sitemap.xml
