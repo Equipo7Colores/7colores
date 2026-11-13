@@ -5,14 +5,15 @@ Sitio estático, sin frameworks ni CDNs, optimizado para carga instantánea y SE
 
 ## Estructura
 
-| Archivo | Descripción |
+| Archivo / Carpeta | Descripción |
 | :-- | :-- |
-| `index.html` | Página completa: HTML, sprite SVG de iconos y JavaScript de interacción. |
-| `estilos.css` | CSS compilado con Tailwind + tokens de diseño. **No editar a mano.** |
-| `assets/` | Imágenes locales (WebP optimizado) y `og-image.jpg`. |
-| `SieteColores_HD.jpg` | Imagen original del equipo (fuente, no se usa en la página). |
-| `adriana.png`, `monica.png`, `jime_foto.png` | Fotos originales del equipo (fuente). |
-| `logo_horizontal.png`, `isotipo.png`, `logo_old.png`, `direccion.png` | Logos e imágenes originales (fuente). |
+| `index.html` | Página completa: HTML semántico, SEO Local Schema.org y JavaScript. |
+| `estilos.css` | CSS de producción con tokens de diseño. |
+| `assets/` | Imágenes en producción (WebP optimizado, favicons, OG image). |
+| `imagenes/` | Imágenes originales y fuentes sin uso (backup y archivo de material gráfico). |
+| `robots.txt` | Directivas de rastreo de motores de búsqueda. |
+| `sitemap.xml` | Mapa de sitio indexable canónico. |
+| `vercel.json` | Cabeceras de seguridad y caché inmutable de assets. |
 
 ### Assets usados por la página
 
