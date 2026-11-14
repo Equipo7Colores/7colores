@@ -20,14 +20,17 @@ Sitio estático, sin frameworks ni CDNs, optimizado para carga instantánea y SE
 
 | Archivo | Uso | Dimensiones |
 | :-- | :-- | :-- |
-| `assets/hero-salas.webp` | Hero principal (LCP, `fetchpriority="high"`) | 900 × 600 |
-| `assets/servicio-*.webp` | Fotos de cada especialidad | 700 × ~470 |
+| `assets/fte_hd_cartel_1600.jpg` | Fachada Sede Central (Hero LCP) | 1600 × 1025 |
+| `assets/abordaje-integral.webp` | Sección Abordaje (Intervención y juego) | 600 × 400 |
+| `assets/abordaje-clinico.webp` | Sección Abordaje (Clínica y psicopedagogía) | 600 × 424 |
+| `assets/servicio-*.webp` | Fotos de las 8 especialidades terapéuticas | 600–700 × ~400 |
 | `assets/adriana-rotela.webp` | Ficha Lic. Adriana Rotela | 400 × 400 |
 | `assets/monica-belottini.webp` | Ficha Lic. Mónica Belottini | 400 × 400 |
 | `assets/jimena-delmoral.webp` | Ficha Lic. Jimena Delmoral | 400 × 400 |
-| `assets/isotipo.webp` | Logo del header en móvil | 120 × 91 |
+| `assets/isotipo.webp` | Logo del header en móvil y favicon webp | 120 × 91 |
 | `assets/logo-horizontal.webp` | Logo del header en desktop y hero | 768 × 191 |
-| `assets/og-image.jpg` | Open Graph / JSON-LD | 1200 × 630 |
+| `assets/apple-touch-icon.png` | Icono app PWA y favicon png | 323 × 246 |
+| `assets/og-image.jpg` | Open Graph / JSON-LD / WhatsApp preview | 1200 × 630 |
 
 ## Imágenes provisorias
 
