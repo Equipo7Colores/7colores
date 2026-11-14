@@ -12,6 +12,7 @@ Documento de instrucciones, contexto y bitácora técnica de desarrollo para Ant
 - **Despliegue Oficial en Vercel:** [https://7colores.vercel.app/](https://7colores.vercel.app/)
 - **Repositorio Oficial en GitHub:** [https://github.com/Equipo7Colores/7colores.git](https://github.com/Equipo7Colores/7colores.git) (rama `main`).
 - **Contacto Oficial Centralizado:** WhatsApp `+54 9 11 5796-7152` (`https://wa.me/5491157967152`).
+- **Canal Oficial de YouTube:** [@equipo7colores](https://www.youtube.com/@equipo7colores) (`https://www.youtube.com/@equipo7colores`).
 - **Atribución en Footer:** [GermyCode](https://germycode.com.ar).
 
 ---
